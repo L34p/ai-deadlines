@@ -1,10 +1,10 @@
 title: System Conference Deadlines # (Maintained by @l34p)
 # email: hmg0228@unist.ac.kr
-description: Countdowns to top system conference deadlines
+description: Countdowns to system conference deadlines
 author: Myeonggyun Han
 
 domain: "l34p.github.io"
-baseurl: ""
+baseurl: "/sys-deadlines"
 
 github_username: l34p
 github_repo: sys-deadlines
