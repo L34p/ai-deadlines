@@ -1,17 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: System Conference Deadlines # (Maintained by @l34p)
+# email: hmg0228@unist.ac.kr
+description: Countdowns to top system conference deadlines
+author: Myeonggyun Han
 
-domain: "aideadlin.es"
+domain: "l34p.github.io"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+github_username: l34p
+github_repo: sys-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id:
 
 include: ['_pages']
