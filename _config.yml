@@ -11,6 +11,6 @@ github_username: l34p
 github_repo: sys-deadlines
 
 markdown: kramdown
-ga_id:
+ga_id: UA-84354730-2
 
 include: ['_pages']
