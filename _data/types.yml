@@ -5,3 +5,5 @@
   sub: PC
 - name: Operating Systems
   sub: OS
+- name: Embedded Systems
+  sub: ES
