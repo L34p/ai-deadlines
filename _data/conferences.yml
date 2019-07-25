@@ -45,6 +45,39 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/call-for-papers'>HTML</a>.
 
+- title: NDSS
+  year: 2020
+  id: ndss2020
+  link: https://www.ndss-symposium.org/ndss2020/
+  deadline: '2019-09-13 23:59:59'
+  timezone: Etc/GMT-12
+  date: February 23-26, 2020
+  place: San Diego, CA 
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://www.ndss-symposium.org/ndss2020/call-for-papers/'>HTML</a>.
+
+- title: NSDI
+  year: 2020
+  id: nsdi2020
+  link: https://www.usenix.org/conference/nsdi20 
+  deadline: '2019-09-19 08:59:59'
+  timezone: Etc/GMT-7
+  date: February 25–27, 2020
+  place: Santa Clara, CA, USA 
+  sub: NS
+  note: <b>Call for Papers:</b> <a href='https://www.usenix.org/sites/default/files/nsdi20_cfp_061719-2.pdf'>PDF</a>.
+
+- title: FAST
+  year: 2020
+  id: fast2020
+  link: https://www.usenix.org/conference/fast20 
+  deadline: '2019-09-26 23:59:59'
+  timezone: Etc/GMT-12
+  date: February 24–27, 2020
+  place: Santa Clara, CA, USA 
+  sub: FS
+  note: <b>Call for Papers:</b> <a href='https://www.usenix.org/sites/default/files/fast20_cfp_052819.pdf'>PDF</a>.
+
 - title: RTAS
   year: 2020
   id: rtas20
@@ -66,4 +99,5 @@
   place: Heraklion, Crete, Greece 
   sub: OS
   note: <b>Call for Papers:</b> <a href='https://www.eurosys2020.org/?page_id=75'>HTML</a>.
+
 

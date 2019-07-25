@@ -7,3 +7,9 @@
   sub: OS
 - name: Embedded Systems
   sub: ES
+- name: Security
+  sub: SE
+- name: File Systems
+  sub: FS
+- name: Network Systems
+  sub: NS
