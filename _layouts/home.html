@@ -225,7 +225,7 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
+          window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
         });
 
         // Event handler on sub click
