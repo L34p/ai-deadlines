@@ -1,16 +1,16 @@
 
 ---
 
-- title: ASPLOS
+- title: HPCA
   year: 2020
-  id: asplos2020
-  link: https://asplos-conference.org
-  deadline: '2019-08-16 23:59:59'
-  timezone: Etc/GMT+2
-  date: March 16-20, 2020
-  place: Lausanne, Switzerland
+  id: hpca2020
+  link: https://www.hpca-conf.org/2020/
+  deadline: '2019-08-06 23:59:59'
+  timezone: Etc/GMT-7
+  date: February 22-26, 2020
+  place: San Diego, CA, USA
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2019/05/asplos2020-cfp.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.hpca-conf.org/2020/?page_id=47'>HTML</a>.
 
 - title: PPoPP
   year: 2020
@@ -23,27 +23,27 @@
   sub: PC
   note: <b>Call for Papers:</b> <a href='https://ppopp20.sigplan.org/track/PPoPP-2020-papers#Call-for-Papers'>HTML</a>.
 
-- title: HPCA
+- title: ASPLOS
   year: 2020
-  id: hpca2020
-  link: https://www.hpca-conf.org/2020/
-  deadline: '2019-08-06 23:59:59'
-  timezone: Etc/GMT-7
-  date: February 22-26, 2020
-  place: San Diego, CA, USA
+  id: asplos2020
+  link: https://asplos-conference.org
+  deadline: '2019-08-16 23:59:59'
+  timezone: Etc/GMT+2
+  date: March 16-20, 2020
+  place: Lausanne, Switzerland
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.hpca-conf.org/2020/?page_id=47'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2019/05/asplos2020-cfp.pdf'>PDF</a>.
 
-- title: EuroSys
+- title: DATE
   year: 2020
-  id: eurosys2020
-  link: https://www.eurosys2020.org/
-  deadline: '2019-11-04 23:59:59'
-  timezone: Etc/GMT-12
-  date: April 27-30, 2020
-  place: Heraklion, Crete, Greece 
-  sub: OS
-  note: <b>Call for Papers:</b> <a href='https://www.eurosys2020.org/?page_id=75'>HTML</a>.
+  id: date2020
+  link: https://www.date-conference.com
+  deadline: '2019-09-08 23:59:59'
+  timezone: Europe/Paris
+  date: Mar 9-13, 2020
+  place: Grenonble, France
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/call-for-papers'>HTML</a>.
 
 - title: RTAS
   year: 2020
@@ -56,13 +56,14 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://2020.rtas.org/submissions/call-for-papers/'>HTML</a>.
 
-- title: DATE
+- title: EuroSys
   year: 2020
-  id: date2020
-  link: https://www.date-conference.com
-  deadline: '2019-09-08 23:59:59'
-  timezone: Europe/Paris
-  date: Mar 9-13, 2020
-  place: Grenonble, France
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/call-for-papers'>HTML</a>.
+  id: eurosys2020
+  link: https://www.eurosys2020.org/
+  deadline: '2019-11-04 23:59:59'
+  timezone: Etc/GMT-12
+  date: April 27-30, 2020
+  place: Heraklion, Crete, Greece 
+  sub: OS
+  note: <b>Call for Papers:</b> <a href='https://www.eurosys2020.org/?page_id=75'>HTML</a>.
+
